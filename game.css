@@ -1,0 +1,19 @@
+body{
+  background-image:  url(https://previews.123rf.com/images/juliasnegireva/juliasnegireva1510/juliasnegireva151000022/46957637-doodle-background-in-vector-with-doodles-flowers-and-paisley-vector-ethnic-pattern-can-be-used-for-w.jpg)
+}
+
+td{
+
+  height:150px;
+  width:150px;
+  text-align:center;
+  font-size: 100px;
+  border:10px solid silver;
+  font-weight: bold;
+
+
+}
+
+tr{
+  color: green;
+}
